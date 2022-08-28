@@ -38,11 +38,11 @@ https://www.kaggle.com/code/tmishinev/fake-news-lstm-baseline-97-accuracy
 
 - Classification Report
 
-![alt text](snapshots/lstm_classif.png)
+![alt text](https://github.com/tmishinev/fake-news-detection/blob/main/snapshots/lstm_classif.PNG)
 
 - Confusion Matrix
 
-![alt text](snapshots/lstm_conf.png)
+![alt text](https://github.com/tmishinev/fake-news-detection/blob/main/snapshots/lstm_conf.PNG)
 
 
 ## 2.2 fake-news-keras-bert.ipynb - Keras/BERT implementation
@@ -51,11 +51,11 @@ https://www.kaggle.com/code/tmishinev/fake-news-keras-bert/data
 
 - Classification Report
 
-![alt text](snapshots/bert_classif.png)
+![alt text](https://github.com/tmishinev/fake-news-detection/blob/main/snapshots/bert_classif.PNG)
 
 - Confusion Matrix
 
-![alt text](snapshots/bert_conf.png)
+![alt text](https://github.com/tmishinev/fake-news-detection/blob/main/snapshots/bert_conf.PNG)
 
 
 
