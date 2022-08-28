@@ -32,30 +32,30 @@ IEEE Transactions on Computational Social Systems: pp. 1-13 (doi: 10.1109/TCSS.2
 
 ## 2. Notebooks:
 
-### - 2.1 fake-news-lstm-baseline.ipynb - LSTM baseline 
+## 2.1 fake-news-lstm-baseline.ipynb - LSTM baseline 
 
 https://www.kaggle.com/code/tmishinev/fake-news-lstm-baseline-97-accuracy
 
 - Classification Report
 
-![](snapshots/lstm_classif.png)
+![alt text](snapshots/lstm_classif.png)
 
 - Confusion Matrix
 
-![](snapshots/lstm_conf.png)
+![alt text](snapshots/lstm_conf.png)
 
 
-### - 2.2 fake-news-keras-bert.ipynb - Keras/BERT implementation
+## 2.2 fake-news-keras-bert.ipynb - Keras/BERT implementation
 
 https://www.kaggle.com/code/tmishinev/fake-news-keras-bert/data
 
 - Classification Report
 
-![](snapshots/bert_classif.png)
+![alt text](snapshots/bert_classif.png)
 
 - Confusion Matrix
 
-![](snapshots/bert_conf.png)
+![alt text](snapshots/bert_conf.png)
 
 
 
