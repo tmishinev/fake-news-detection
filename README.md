@@ -17,11 +17,11 @@ IEEE Transactions on Computational Social Systems: pp. 1-13 (doi: 10.1109/TCSS.2
 
 - Target Label Distribution:
 
-![](snapshots\target.png)
+![](snapshots/target.png)
 
 - Word Counts Distribution:
 
-![](snapshots\word_dist.png)
+![](snapshots/word_dist.png)
 
 
 
@@ -38,11 +38,11 @@ https://www.kaggle.com/code/tmishinev/fake-news-lstm-baseline-97-accuracy
 
 - Classification Report
 
-![](snapshots\lstm_classif.png)
+![](snapshots/lstm_classif.png)
 
 - Confusion Matrix
 
-![](snapshots\lstm_conf.png)
+![](snapshots/lstm_conf.png)
 
 
 ### - 2.2 fake-news-keras-bert.ipynb - Keras/BERT implementation
@@ -51,11 +51,11 @@ https://www.kaggle.com/code/tmishinev/fake-news-keras-bert/data
 
 - Classification Report
 
-![](snapshots\bert_classif.png)
+![](snapshots/bert_classif.png)
 
 - Confusion Matrix
 
-![](snapshots\bert_conf.png)
+![](snapshots/bert_conf.png)
 
 
 
