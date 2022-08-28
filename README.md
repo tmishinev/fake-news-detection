@@ -17,11 +17,11 @@ IEEE Transactions on Computational Social Systems: pp. 1-13 (doi: 10.1109/TCSS.2
 
 - Target Label Distribution:
 
-![](snapshots/target.png)
+![](https://github.com/tmishinev/fake-news-detection/blob/main/snapshots/target.PNG)
 
 - Word Counts Distribution:
 
-![](snapshots/word_dist.png)
+![](https://github.com/tmishinev/fake-news-detection/blob/main/snapshots/word_dist.PNG)
 
 
 
